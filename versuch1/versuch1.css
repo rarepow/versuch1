@@ -1,0 +1,12 @@
+body{
+    background-color: hwb(0 89% 11%);
+}
+main{
+    background-color: white;  
+    border-radius: 10px;
+    margin: 70px 200px 90px;
+    height: 800px;
+    background-image: url(img/bg-sidebar-desktop\ \(1\).svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
