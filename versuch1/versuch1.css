@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&family=Martian+Mono:wght@200;400&display=swap');
 body{
     background-color: hwb(0 89% 11%);
 }
@@ -28,7 +28,13 @@ main{
    list-style-type: none;
    line-height: 20px; 
    font-size: 15px;
-   font-family: 'Lato', sans-serif;
-   margin-left: 30px;
+   font-family: 'Martian Mono', monospace;
+   font-weight: 400px;
+   margin-left: 50px;
+}
+.list1{
+    color:#B4B4B3;
+    
+    
 }
 
