@@ -12,7 +12,6 @@ main{
     height: 750px;
     margin-left: 300px;
     margin-top: 100px;
-    
     border: 2px solid white;   
 }
 
@@ -20,12 +19,12 @@ main{
     background-image: url(./img/bg-sidebar-desktop\ \(1\).svg);
     background-size: contain;
     background-repeat: no-repeat;
-    border: 2px solid rgb(16, 13, 13); 
     height: 680px;
-
     margin: 30px;
     
+    
 }
+
 
 .none{
    color: white;
@@ -35,12 +34,69 @@ main{
    font-family: 'Martian Mono', monospace;
    font-weight: 400px;
    margin-left: 50px;
+   
+}
+span{
+    color:#B4B4B3;
+
 }
 .list1{
-    color:#B4B4B3;
-    
+    /* border-radius: 100%;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    border: 1px solid black;
+    position: absolute;
+    top: 8%;
+    left: 9%;
+    transform: translate(-50%, -50%); */
+    border: 1px solid rgb(200, 152, 185);
+    border-radius: 100%;
+    padding: 10px;
+    position: absolute;
+    left: 370px;
+    top: 19%;    
+    box-shadow: 1px 1px 20px 2px pink;
     
 }
+.list1:hover{
+    background-color: rgb(190, 83, 101);
+    cursor: pointer;
+}
+.list2{
+    border: 1px solid rgb(171, 110, 152);
+    border-radius: 100%;
+    padding: 10px;
+    position: absolute;
+    left: 370px;
+    top: 27%;
+}
+.list2:hover{
+    background-color: rgb(190, 83, 101);
+    cursor: pointer;}
+.list3{
+    border: 1px solid rgb(171, 110, 152);
+    border-radius: 100%;
+    padding: 10px;
+    position: absolute;
+    left: 370px;
+    top: 35%;
+}
+.list3:hover{
+    background-color: rgb(190, 83, 101);
+    cursor: pointer;}
+
+.list4{
+    border: 1px solid rgb(171, 110, 152);
+    border-radius: 100%;
+    padding: 10px;
+    position: absolute;
+    left: 370px;
+    top: 43%;
+}
+.list4:hover{
+    background-color: rgb(190, 83, 101);
+    cursor: pointer;}
 .first{
    
     text-align: left;
