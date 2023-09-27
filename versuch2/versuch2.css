@@ -88,8 +88,79 @@
     padding-bottom: 0.4%;
   }
 
+  /*----------------------------------------------------------------   */
   
+.left{
+    border: 2px solid black;
+    width: 35%;
+    height: 85vh;
+    margin-left: 1%;
+    border-radius: 6px;
+    background-color: white;
+  }
   
+  .phone{
+    border: 1px solid grey;
+    width: 50%;
+    height: 75%;
+    margin: auto;
+    margin-top: 14%;
+    border-radius:35px;
+    background-color: white;
+  }
+  .phone2{
+    border: 1px solid grey;
+    width: 95%;
+    height: 95%;
+    margin: 4% auto ;
+    /* margin-top: 3%; */
+    border-radius:35px;
+    background-color: white;
+  }
+  
+  .photo{
+    /* border: 1px solid lightgrey; */
+    width: 35%;
+    height: 20%;
+    margin: 10% auto ;
+    border-radius:50%;
+    background-color: rgba(211, 211, 211, 0.505);
+  }
+  .photo2{
+    /* border: 1px solid rgba(211, 211, 211, 0.868); */
+    width: 65%;
+    height: 3%;
+    margin: 10% auto 3%;
+    border-radius:5px;
+    background-color: rgba(211, 211, 211, 0.505);
+  }
+  .photo3{
+    /* border: 1px solid rgba(211, 211, 211, 0.868); */
+    width: 40%;
+    height: 2%;
+    margin: 4% auto ;
+    border-radius:5px;
+    background-color: rgba(211, 211, 211, 0.505);
+  }
+ /* Diğerlerinde de kullanılacak(youtube..) */
+  .github{
+    border: 1px solid rgba(211, 211, 211, 0.868);
+    width: 85%;
+    height: 8%;
+    margin: 10% auto ;
+    border-radius:5px;
+    background-color:black;
+    color: white;
+    font-size: 12px;
+    padding-top: 4%;
+  }
+  /* Diğerlerine de aynı özellik */
+  #arrow{
+    padding-left: 55%;
+  }
+  #space{
+    padding-left: 8%;
+  }
   
   
   
